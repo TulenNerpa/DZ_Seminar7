@@ -1,0 +1,14 @@
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\bin\Debug\net7.0\Task3.exe
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\bin\Debug\net7.0\Task3.dll
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.dll
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Users\Kate\git-programs\introduce C#\sem7\Task3\obj\Debug\net7.0\ref\Task3.dll
